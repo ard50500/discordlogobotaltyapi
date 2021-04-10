@@ -16,8 +16,8 @@ module.exports = client => {
   );
   client.user.setStatus("online");
   var oyun = [
-       "Discord En Gelişmiş Bot",
-    " Efsane Discord Botu By Coloner Yani Yunus Emre"
+       "zekiarda.xyz",
+    " zekiarda.xyz"
   ];
 
   setInterval(function() {
